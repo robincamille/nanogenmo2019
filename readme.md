@@ -71,7 +71,7 @@ The Markov generator I'm using...
 
 The interjections came from [Darius Kazemi's corpora repository](https://github.com/dariusk/corpora/blob/master/data/words/interjections.json).
 
-The all-fortunes.txt text came from...
+A huge thank you to the sources for all-fortunes.txt...
 - [Tarot interpretations from Darius Kazemi's Corpora repo](https://github.com/dariusk/corpora/blob/master/data/divination/tarot_interpretations.json)
 - [Josh Madison's fortune cookie fortunes](https://joshmadison.com/2008/04/20/fortune-cookie-fortunes/)
 - [@vromero's fortune cookie fortunes](https://github.com/vromero/fortune-cookies/blob/master/fortunes)
@@ -80,3 +80,12 @@ The all-fortunes.txt text came from...
 
 ### Similar project
 - [Horoscope a Minute](https://play.google.com/store/apps/details?id=com.volchok.minutehoroscope&hl=en_US) Android app that generates a horoscope every minute
+
+---
+
+## To do
+- Fiddle with capitalization / punctuation 
+- Is there a better way to use Markov chains to structure a sentence? 
+- Should the signs be ordered somehow? Current sign first? 
+- Is this a birthday horoscope book, or your daily horoscope? 
+- Consider adding to the structure: moon/planet movements, final piece of advice
