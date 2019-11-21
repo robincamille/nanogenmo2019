@@ -1,4 +1,6 @@
-This project was created for NaNoGenMo (National Novel Generation Month) 2019. Using a list of existing fortunes from other sources, a list of interjections, and a Markov generator, it creates a year of daily horoscopes for each Zodiac sign. 
+## About 
+
+This project was created for [NaNoGenMo 2019](https://github.com/nanogenmo/2019) (National Novel Generation Month). Using a list of existing horoscopes and fortunes from other sources, a list of interjections, and a Markov generator, it creates a year of daily horoscopes for each Zodiac sign. 
 
 General format, inspired by Cosmopolitan magazine's horoscopes: date, sign, exclamation ("Yikes, Leo!"), then a mangled horoscope. 
 
