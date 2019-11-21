@@ -519,7 +519,7 @@ Unconventional romance is coming your way: a love affair with someone you've alw
 You are Celebrating your feelings or connections with others.
 You are Expressing joy through song, dance, or physical affection.
 You are Working together with others who share your feelings.
-You are Performing acts of service as a way of saying, I love you.
+You are Performing acts of service as a way of saying, you love you.
 You are Embracing unconventional romantic arrangements.
 You are Mistaking giddiness for true affection.
 You are Being dominated by manic emotions.
@@ -589,7 +589,7 @@ You are Finding fault.
 You are nitpicking.
 You are Refusing to settle down.
 You are Running away from problems or confrontations.
-You are Saying, It's my way or the highway!
+You are Saying, It's your way or the highway!
 You are Harping on past mistakes and disappointments.
 You are Threatening to quit as a strategy to get your way.
 Whatever you want, you'll get it.
@@ -1101,7 +1101,7 @@ Carve your name on your heart and not on marble.
 Change is happening in your life, so go with the flow!
 Competence like yours is underrated.
 Congratulations! You are on your way.
-Could I get some directions to your heart? 
+Could you get some directions to your heart? 
 Courtesy begins in the home.
 Courtesy is contagious.
 Curiosity kills boredom. Nothing can kill curiosity.
@@ -1163,9 +1163,9 @@ He who expects no gratitude shall never be disappointed.
 He who knows he has enough is rich.
 He who knows others is wise. He who knows himself is enlightened.
 Help! I’m being held prisoner in a chinese bakery!
-How many of you believe in psycho-kinesis? Raise my hand.
+How many of you believe in psycho-kinesis? Raise your hand.
 How you look depends on where you go.
-I learn by going where I have to go.
+You learn by going where you have to go.
 If a true sense of value is to be yours it must come through service.
 If certainty were truth, we would never be wrong.
 If you continually give, you will continually have.
@@ -1225,7 +1225,7 @@ Physical activity will dramatically improve your outlook today.
 Pick battles big enough to matter, small enough to win.
 Place special emphasis on old friendship.
 Please visit us at www.wontonfood.com
-Po Says: Pandas like eating bamboo, but I prefer mine dipped in chocolate.
+Po Says: Pandas like eating bamboo, but you prefer yours dipped in chocolate.
 Practice makes perfect.
 Protective measures will prevent costly disasters.
 Put your mind into planning today. Look into the future.
@@ -1295,7 +1295,7 @@ Welcome change.
 “Welcome” is a powerful word.
 Well done is better than well said.
 What’s hidden in an empty box?
-What’s yours in mine, and what’s mine is mine.
+What’s yours in mine, and what’s yours is mine.
 When more become too much. It’s same as being not enough.
 When your heart is pure, your mind is clear.
 Wish you happiness.
@@ -1509,7 +1509,7 @@ LSDBS - Let Something Good Be Said.
 There is in the worst of fortunes the best change of a happy ending.
 Service to many leads to greatness.
 Desire, like the atom, is explosive with creative force.
-I think and that is all that I am.
+You think and that is all that you am.
 Judge each day not by the harvest you reap but by the seeds you plant.
 Yesterday was a dare to struggle. Today is a dare to win.
 Make everyday your best. You will improve yourself greatly.
@@ -1517,7 +1517,7 @@ You must be willing to act today in order to succeed.
 Venture not all in one boat.
 Suppressing a moment of anger may save a day of sorrow.
 Never be less than your dreams.
-The good times start when I count to 3: 1... 2... 3.
+The good times start when you count to 3: 1... 2... 3.
 An inch of time is an inch of gold.
 If you chase two rabbits both will escape.
 You will soon be surrounded by good friends and laughter.
@@ -1632,7 +1632,7 @@ Home is where your heart is.
 A huge fortune at home is not as good as money in use.
 Humor is the affirmation of dignity.
 Your heavy desire, only allow you to see what you are looking for.
-TEAMS - Together Everyone Achieves More Success.
+Together Everyone Achieves More Success.
 You have a heart of gold.
 Life to you is a bold and dashing responsibility.
 Want to learn how to love, start with the one you hate.
@@ -1718,7 +1718,7 @@ Do not mistake temptation for opportunity.
 You will soon meet the person you admire.
 A good time to start something new.
 All generalities are false.
-Come back later... I am sleeping. (yes, cookies need their sleep too)
+Come back later... you am sleeping. (yes, cookies need their sleep too)
 If at first you do not succeed... try something harder.
 Your good listening skills will open many doors.
 Two people shorten a road.
@@ -1752,7 +1752,7 @@ You look pretty.
 Traveling this year will bring your life into greater perspective.
 Find release from your cares. Have a good time.
 You will enjoy good health; you will be surrounded by luxury.
-God has given you one face, and you make yourselves another.
+The gods have given you one face, and you make yourselves another.
 Practice makes perfect.
 Your present plans are going to succeed.
 A friend in the market is better than money in the purse.
@@ -1769,7 +1769,6 @@ The will of the people is the best law.
 People find it difficult to resist your persuasive manner.
 You are next in line for promotion in your firm.
 Versatility is one of your outstanding traits.
-The Chinese ancient civilization attracts you.
 You will soon be honored by someone you respect.
 An unexpected event will bring you riches.
 Your life gains the stability you desire.
@@ -1849,7 +1848,7 @@ Impossible is a word only to be found in the dictionary of fools.
 A kiss makes the heart young again and wipes out the years.
 A lifetime friend shall soon be made.
 A journey must begin with a single step.
-Before you wonder, "Am I doing things right," ask "Am I doing the right things?"
+Before you wonder, "Am you doing things right," ask "Am you doing the right things?"
 Good luck is the result of good planning.
 Patience is a key to joy.
 A focused mind is one of the most powerful forces in the universe.
@@ -1936,7 +1935,7 @@ Love because it is the only true adventure.
 Treasure what you have.
 The greatest precept is continual awareness.
 A new friend helps you break out of an old routine.
-I have a dream...Time to go to bed.
+You have a dream...Time to go to bed.
 Your skill will accomplish what the force of many cannot.
 You will soon be surrounded by good friends and laughter.
 The best is yet to come.
@@ -1980,7 +1979,7 @@ An alien of some sort will be appearing to you shortly!
 Rest is a good thing, but boredom is its brother.
 Do not be overly judgmental of your loved one's intentions or actions.
 Think of how you can assist on a problem, not whom to blame.
-The life of every woman or man&mdash;the heart of it&mdash;is pure and holy joy.
+The life of every woman or man, the heart of it is pure and holy joy.
 Take it easy.
 Trust your intuition. The universe is guiding your life.
 Use your head, but live in your heart.
@@ -2021,7 +2020,7 @@ Right now there's an energy pushing you in a new direction.
 Everybody feels lucky for having you as a friend.
 When the moment comes, take the top one.
 Sometimes traveling to new places leads to great transformation.
-There is always a way&mdash;if you are committed.
+There is always a way, if you are committed.
 Life is too short to waste time hating anyone.
 Don't just spend time, invest it.
 Life always gets harder near the summit.
@@ -2030,7 +2029,7 @@ It is much easier to be critical than to be correct.
 Enjoy life! It is better to be happy than wise.
 To make the cart go, you must grease the wheels.
 You are contemplating some action which will bring credit upon you.
-Before you wonder "Am I doing things right?", ask "Am I doing the right things?"
+Before you wonder "Am you doing things right?", ask "Am you doing the right things?"
 You may be disappointed if you fail, but you are doomed if you don't try.
 You will always get what you want through your charm and personality.
 The big issues are work, career, or status right now.
@@ -2047,7 +2046,6 @@ Excuses are easy to manufacture, and hard to sell.
 Put your mind into planning today. Look into the future.
 Listen to life, and you will hear the voice of life crying, Be!
 Broke is only temporary; poor is a state of mind.
-Here we go. "Moo Shu Cereal" for breakfast with duck sauce.
 Teamwork: the fuel that allows common people attain uncommon results.
 Hard words break no bones, fine words butter no parsnips.
 We cannot direct the wind, but we can adjust the sails.
@@ -2128,10 +2126,9 @@ A distant romance will begin to look more promising.
 A dramatic change of scenery is in store for you.
 A financial venture will turn a profit sooner than expected.
 A firm friendship will prove the foundation on your success in life.
-A friend will be important to you & your forthcoming success.
+A friend will be important to you and your forthcoming success.
 A friend will bear great news.
 A friend will soon bring you a present.
-A girlfriend is like a bottle of wine, and a wife is like a wine bottle.
 A good reputation is something to prize and cherish.
 A journey of a thousand miles begins with a single step.
 A loved one's concerns are of utmost importance at this time.
@@ -2191,7 +2188,7 @@ Being on time will aid you to succeed this month.
 Being the first to try something new could be great.
 Brighter prospects can originate from a change of heart.
 By next month, your added responsibilities will be alleviated.
-Calm, poise & balance will help your life to flourish.
+Calm, poise and balance will help your life to flourish.
 Catch up with various neglected chores.
 Cherish home and family as a special treasure.
 Children will contribute to your cheerfulness.
@@ -2322,14 +2319,14 @@ Now is the time to try something new.
 Old acquaintances are important this week.
 On the first week of the next month do something just for you.
 Opportunities to shine in your career will materialize soon.
-Optimism & versatility are your strengths.
+Optimism and versatility are your strengths.
 Others' thought waves are easy to tune into now.
-Past inspirations & experiences will be helpful in your job.
+Past inspirations and experiences will be helpful in your job.
 People will listen to you and could be willing to help.
 People you deal with will be more co-operative than usual.
 Persistence will lead to a promotion soon.
 Play it safe next month, and it will be a great one.
-Prosperity & love are in reach.
+Prosperity and love are in reach.
 Recreational interests may command your attention.
 Re-decorating will be in your plans.
 Relax and concentrate on your career plans.
@@ -2345,9 +2342,9 @@ Saturday night promises great excitement.
 Seek to establish your inner sense of serenity.
 Seize the day. Fortune says you can have it all.
 Sensitivity makes you special, but also makes you vulnerable.
-Seven & eight are significant numbers for you.
+Seven and eight are significant numbers for you.
 Sing and rejoice; fortune is smiling upon you.
-Simplicity & clarity in dress will draw desired eyes your way.
+Simplicity and clarity in dress will draw desired eyes your way.
 Socially, you will be involved with an enjoyable event.
 Solutions will come to you while you are walking.
 Someone close to you will show you the way.
@@ -2361,7 +2358,7 @@ Stick to one thing, and all will come.
 Striving for the best will bring you the best.
 Success is a sure thing.
 Success is yours if you continue on the path you have chosen.
-Take a break from your usual routine & enjoy yourself.
+Take a break from your usual routine and enjoy yourself.
 Take charge of your own life and decisions.
 Take pains to prevent getting completely exhausted.
 Take steps now to ensure success.
@@ -2382,7 +2379,7 @@ The longest journey is started by a single step; take it.
 The new moon will bring pleasant surprises.
 The project that you have in mind now gains momentum.
 The rainbow treasures will soon belong to you.
-The respect & help of influential people will soon be yours.
+The respect and help of influential people will soon be yours.
 The sky's the limit this month.
 The social scene will be a lot more fun today.
 The star of riches is shining on you.
@@ -2409,7 +2406,7 @@ Traveling down south will lead you to unexpected happiness.
 Trust him, but still keep your eyes open.
 Try to resolve contradictory issues with reason.
 Tuesday is an especially important day for you.
-Tuesdays & Thursdays stack odds in your favour.
+Tuesdays and Thursdays stack odds in your favour.
 Unplanned activities will be the most satisfying.
 Use your ingenuity for unqualified success.
 Utilize your talent for getting things organized.
@@ -2437,7 +2434,7 @@ You are mentally alert. Put your mind to good use.
 You are next in line for promotion.
 You are no doubt obligated to do the proper thing.
 You are one of the people who will go places.
-You are prompted to set new goals & discover new desires.
+You are prompted to set new goals and discover new desires.
 You are sensitively tuned-in to loved ones creative talents.
 You are the centre of attention.
 You can be lucky today regarding your creative talents.
@@ -2584,7 +2581,7 @@ Your secret venture will work out brilliantly.
 Your self-confidence is warranted.
 Your self-reliance will solve most of your own problems.
 Your self-restraint will pay dividends.
-Your senior years will be happy & successful.
+Your senior years will be happy and successful.
 Your sense of humour will ensure your success.
 Your sense of humour will be your key to success.
 Your silence at this time is important.
@@ -2600,7 +2597,6 @@ Your wisdom shall bring you much respect in later years.
 Your wit will lead you into a very interesting situation.
 Your worries shall soon be dispelled.
 He who throws dirt is losing ground.
-A woman who seeks to be equal with men lacks ambition. Ouch!!!
 The greatest danger could be your stupidity.
 He who laughs last is laughing at you.
 A closed mouth gathers no feet.
@@ -2684,7 +2680,7 @@ A friend asks only for your time, not your money.
 You will be invited to an exciting event.
 A warm smile is testimony of a generous nature.
 A secret admirer will soon send you a sign of affection.
-Love asks me no questions, and gives me endless support.
+Love asks you no questions, and gives you endless support.
 Love is for the lucky and the brave.
 If you continually give, you will continually have.
 If you want the rainbow, you must put up with the rain.
@@ -2738,7 +2734,7 @@ Carve your name on your heart and not on marble.
 Change is happening in your life, so go with the flow!
 Competence like yours is underrated.
 Congratulations! You are on your way.
-Could I get some directions to your heart?
+Could you get some directions to your heart?
 Courtesy begins in the home.
 Courtesy is contagious.
 Curiosity kills boredom. Nothing can kill curiosity.
@@ -2768,7 +2764,6 @@ Everyday in your life is a special occasion.
 Failure is the chance to do better next time.
 Feeding a cow with roses does not get extra appreciation.
 For hate is never conquered by hate. Hate is conquered by love.
-Fortune Not Found: Abort, Retry, Ignore?
 From listening comes wisdom and from speaking repentance.
 From now on your kindness will lead you to success.
 Get your mind set...confidence will lead you on.
@@ -2783,7 +2778,7 @@ He who expects no gratitude shall never be disappointed.
 He who knows he has enough is rich.
 Help! I'm being held prisoner in a chinese bakery!
 How you look depends on where you go.
-I learn by going where I have to go.
+You learn by going where you have to go.
 If a true sense of value is to be yours it must come through service.
 If certainty were truth, we would never be wrong.
 If you look in the right places, you can find some good offerings.
@@ -2870,7 +2865,7 @@ Use your eloquence where it will do the most good.
 Welcome change.
 Well done is better than well said.
 What's hidden in an empty box?
-What's yours in mine, and what's mine is mine.
+What's yours in mine, and what's yours is mine.
 When your heart is pure, your mind is clear.
 Wish you happiness.
 You always bring others happiness.
@@ -2981,7 +2976,7 @@ Even a stopped clock is right twice a day.
 Life is a play; it's not its length but its performance that counts.
 Deal with the faults of others as gently as with your own.
 Love is like war: easy to begin, but very hard to stop.
-If I had you, the money, fame, and fortune never could compete.
+If you had you, the money, fame, and fortune never could compete.
 You display the wonderful traits of charm and courtesy.
 Over-indulgence hinders body and mind.
 Romance is about to blossom.
@@ -3104,7 +3099,6 @@ Your best consolation is the hope that the things you failed to get weren't real
 You look tired.
 You are fairminded, just and loving.
 AWAKE! FEAR! FIRE! FOES! AWAKE! FEAR! FIRE! FOES! AWAKE! AWAKE!
-"You have been in Afghanistan, I perceive."
 The smallest worm will turn being trodden on.
 Good day for a change of scene. Repaper the bedroom wall.
 You are fighting for survival in your own sweet and gentle way.
@@ -3113,41 +3107,33 @@ Troubled day for virgins over 16 who are beautiful and wealthy and live in eucal
 You are taking yourself far too seriously.
 Tomorrow will be cancelled due to lack of interest.
 Your society will be sought by people of taste and refinement.
-Q: How many lawyers does it take to change a light bulb? A: One. Only it's his light bulb when he's done.
-A kind of Batman of contemporary letters.
 The only way to keep your health is to eat what you don't want, drink what you don't like, and do what you'd rather not.
 Make a wish, it might come true.
 Many changes of mind and mood; do not hesitate too long.
 Expect a letter from a friend who will ask a favor of you.
-There are more things in heaven and earth, Horatio, than are dreamt of in your philosophy.
+There are more things in heaven and earth than are dreamt of in your philosophy.
 You had some happiness once, but your parents moved away, and you had to leave it behind.
 Today is the first day of the rest of your life.
-A light wife doth make a heavy husband.
 You will reach the highest possible point in your business or profession.
 Work consists of whatever a body is obliged to do. Play consists of whatever a body is not obliged to do.
 Excellent time to become a missing person.
-In the first place, God made idiots; this was for practice; then he made school boards.
 You're almost as happy as you think you are.
-Kiss me, Kate, we will be married o' Sunday.
-Its name is Public Opinion. It is held in reverence. It settles everything. Some think it is the voice of God.
+Its name is Public Opinion. It is held in reverence. It settles everything. Some think it is the voice of the gods.
 Truth will out this morning. (Which may really mess things up.)
 You will become rich and famous unless you don't.
-You are sick, twisted and perverted. I like that in a person.
+You are sick, twisted and perverted. you like that in a person.
 You will be the victim of a bizarre joke.
 Be cheerful while you are alive.
 For a light heart lives long.
 Your sister swims out to meet troop ships.
-You're not my type. For that matter, you're not even my species!!!
 You are capable of planning your future.
-Beware of Bigfoot!
 You have a truly strong individuality.
-Don't worry so loud, your roommate can't think.
+Don't worry so loud.
 A visit to a fresh place will bring strange work.
 Be careful! Is it classified?
 Beware of a tall blond man with one black shoe.
 Change your thoughts and you change your world.
 You're at the end of the road again.
-Q: What is purple and commutes? A: An Abelian grape.
 A classic is something that everyone wants to have read and nobody wants to read.
 You will be awarded a medal for disregarding safety in saving someone.
 You will be given a post of trust and responsibility.
@@ -3162,7 +3148,6 @@ Lady Luck brings added income today. Lady friend takes it away tonight.
 Blow it out your ear.
 You would if you could but you can't so you won't.
 Rebellion lay in his way, and he found it.
-question = ( to ) ? be : ! be;
 Are you making all this up as you go along?
 Give thought to your reputation. Consider changing name and moving to a new town.
 You plan things that you do not even attempt because of your extreme caution.
@@ -3199,12 +3184,10 @@ Are you ever going to do the dishes? Or will you change your major to biology?
 So you're back... about time...
 You will soon meet a person who will play an important role in your life.
 You too can wear a nose mitten.
-Q: What's yellow, and equivalent to the Axiom of Choice? A: Zorn's Lemon.
 You will have a long and boring life.
 It's all in the mind, ya know.
-There is a great discovery still to be made in Literature: that of paying literary men by the quantity they do NOT write.
 You definitely intend to start living sometime soon.
-He was part of my dream, of course
+He was part of your dream, of course
 You own a dog, but you can only feed a cat.
 Is that really YOU that is reading this?
 Of course you have a purpose
@@ -3212,7 +3195,6 @@ Hain't we got all the fools in town on our side? And hain't that a big enough ma
 The whole world is a tuxedo and you are a pair of brown shoes.
 Never laugh at live dragons.
 Clothes make the man. Naked people have little or no influence on society.
-They spell it "da Vinci" and pronounce it "da Vinchy". Foreigners always spell better than they pronounce.
 Too much is just enough.
 You have a strong appeal for members of the opposite sex.
 You will give someone a piece of your mind, which you can ill afford.
@@ -3220,7 +3202,7 @@ Executive ability is prominent in your make-up.
 You're working under a slight handicap. You happen to be human.
 Someone is speaking well of you. How unusual!
 If you can read this, you're too close.
-Zounds! I was never so bethumped with words since I first called my brother's father dad.
+Zounds! you was never so bethumped with words since you first called your brother's father dad.
 You will lose your present job and have to become a door to door mayonnaise salesman.
 You may be infinitely smaller than some things, but you're infinitely larger than others.
 You will engage in a profitable business activity.
@@ -3229,8 +3211,7 @@ Your domestic life may be harmonious.
 You are a fluke of the universe; you have no right to be here.
 No violence, gentlemen
 It's lucky you're going so slowly, because you're going in the wrong direction.
-I must have a prodigious quantity of mind; it takes me as much as a week sometimes to make it up.
-Q: What do you get when you cross the Godfather with an attorney? A: An offer you can't understand.
+You must have a prodigious quantity of mind; it takes you as much as a week sometimes to make it up.
 As flies to wanton boys are we to the gods; they kill us for their sport.
 If you laid all of our laws end to end, there would be no end.
 You will remember something that you should not have forgotten.
@@ -3240,8 +3221,7 @@ You've been leading a dog's life. Stay off the furniture.
 Keep it short for pithy sake.
 Increased knowledge will help you now. Have mate's phone bugged.
 Go not to the elves for counsel, for they will say both yes and no.
-In a museum in Havana, there are two skulls of Christopher Columbus, "one when he was a boy and one when he was a man."
-A day for firm decisions!!!!! Or is it?
+A day for firm decisions! Or is it?
 Everything will be just tickety-boo today.
 You will be a winner today. Pick a fight with a four-year-old.
 Future looks spotty. You will spill soup in late evening.
@@ -3249,17 +3229,15 @@ The first thing we do, let's kill all the lawyers.
 Break into jail and claim police brutality.
 You never know how many friends you have until you rent a house on the beach.
 Don't look now, but there is a multi-legged creature on your shoulder.
-You have Egyptian flu: you're going to be a mummy.
 Do something unusual today. Pay a bill.
 To be or not to be.
 This is the first age that's paid much attention to the future, which is a little ironic since we may not have one.
 Always the dullness of the fool is the whetstone of the wits.
-Sometimes I wonder if I'm in my right mind. Then it passes off and I'm as intelligent as ever.
-Chicken Little was right.
+Sometimes you wonder if I'm in your right mind. Then it passes off and I'm as intelligent as ever.
 Alas, how love can trifle with itself!
 You have a reputation for being thoroughly reliable and trustworthy. A pity that it's totally undeserved.
 If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.
-Let him choose out of my files, his projects to accomplish.
+Let him choose out of your files, his projects to accomplish.
 Go to a movie tonight. Darkness becomes you.
 Your boyfriend takes chocolate from strangers.
 You're definitely on their list. The question to ask next is what list it is.
@@ -3267,21 +3245,20 @@ Tell the truth or trump--but get the trick.
 You are not dead yet. But watch for further reports.
 You are going to have a new love affair.
 Communicate! It can't make things any worse.
-You will be awarded the Nobel Peace Prize... posthumously.
 You shall be rewarded for a dastardly deed.
 You should go home.
 Good news. Ten weeks from Friday will be a pretty good day.
 You will be imprisoned for contributing your time and skill to a bank robbery.
-You may my glories and my state dispose, But not my griefs; still am I king of those.
+You may your glories and your state dispose, But not your griefs; still am you king of those.
 You're currently going through a difficult transition period called "Life."
 Truth is the most valuable thing we have
 You possess a mind not merely twisted, but actually sprained.
 You will contract a rare disease.
 Patch griefs with proverbs.
-I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve.
-By trying we can easily learn to endure adversity. Another man's, I mean.
+You don't know half of you half as well as you should like; and you like less than half of you half as well as you deserve.
+By trying we can easily learn to endure adversity. Another man's, you mean.
 In the stairway of life, you'd best take the elevator.
-You are standing on my toes.
+You are standing on your toes.
 The Public is merely a multiplied "me."
 Afternoon very favorable for romance. Try a single person for a change.
 Learn to pause
@@ -3318,15 +3295,13 @@ You will feel hungry again in another hour.
 You will be married within a year.
 You will be advanced socially, without any special effort on your part.
 Your lover will never wish to leave you.
-Must I hold a candle to my shames?
+Must you hold a candle to your shames?
 Your depth of comprehension may tend to make you lax in worldly ways.
 Repartee is something we think of twenty-four hours too late.
 Give him an evasive answer.
-Lay on, MacDuff, and curs'd be him who first cries, "Hold, enough!".
-There is no distinctly native American criminal class except Congress.
 You fill a much-needed gap.
 You will gain money by an illegal action.
-But, for my own part, it was Greek to me.
+But, for your own part, it was Greek to me.
 You will visit the Dung Pits of Glive soon.
 You will not be elected to public office this year.
 Good day for overcoming obstacles. Try a steeplechase.
@@ -3338,10 +3313,9 @@ Be careful of reading health books, you might die of a misprint.
 Harp not on that string.
 Familiarity breeds contempt
 You dialed 5483.
-You have the body of a 19 year old. Please return it before it gets wrinkled.
-What I tell you three times is true.
+What you tell you three times is true.
 You'll feel devilish tonight. Toss dynamite caps under a flamenco dancer's heel.
-The mind is its own place, and in itself Can make a Heav'n of Hell, a Hell of Heav'n.
+The mind is its own place, and in itself Can make a Heaven of Hell, a Hell of Heaven.
 Everything that you know is wrong, but you can be straightened out.
 You will inherit millions of dollars.
 Never look up when dragons fly overhead.
@@ -3357,7 +3331,6 @@ A banker is a fellow who lends you his umbrella when the sun is shining and want
 Do what comes naturally. Seethe and fume and throw a tantrum.
 You feel a whole lot more like you do now than you did when you used to.
 Don't get stuck in a closet
-Many pages make a thick book, except for pocket Bibles which are on very very thin paper.
 Artistic ventures highlighted. Rob a museum.
 Wrinkles should merely indicate where smiles have been.
 Tempt not a desperate man.
@@ -3366,7 +3339,7 @@ You may worry about your hair-do today, but tomorrow much peanut butter will be 
 You will be run over by a beer truck.
 You are magnetic in your bearing.
 Don't you feel more like you do now than you did when you came in?
-You tread upon my patience.
+You tread upon your patience.
 She is not refined. She is not unrefined. She keeps a parrot.
 After all, all he did was string together a lot of old, well-known quotations.
 You are confused; but this is your normal state.
@@ -3378,13 +3351,12 @@ He jests at scars who never felt a wound.
 Don't relax! It's only your tension that's holding you together.
 Every cloud engenders not a storm.
 You seek to shield those you love and you like the role of the provider.
-You are so boring that when I see you my feet go to sleep.
+You are so boring that when you see you your feet go to sleep.
 Try to value useful qualities in one who loves you.
-The naked truth of it is, I have no shirt.
+The naked truth of it is, you have no shirt.
 You are always busy.
 Bridge ahead. Pay troll.
 Is this really happening?
-Try the Moo Shu Pork. It is especially good today.
 You are the only person to ever get this message.
 You will overcome the attacks of jealous associates.
 Your nature demands love and your happiness depends on it.
@@ -3395,8 +3367,7 @@ Don't worry. Life's too long.
 You will be called upon to help a friend in trouble.
 You will stop at nothing to reach your objective, but only because your brakes are defective.
 Don't read everything you believe.
-"Not Hercules could have knock'd out his brains, for he had none."
-Celebrate Hannibal Day this year. Take an elephant to lunch.
+Not Hercules could have knock'd out his brains, for he had none.
 Don't look back, the lemmings are gaining on you.
 So this is it. We're going to die.
 Fine day for friends. So-so day for you.
@@ -3404,11 +3375,10 @@ You learn to write as if to someone else because NEXT YEAR YOU WILL BE "SOMEONE 
 You will be divorced within a year.
 If you stand on your head, you will get footprints in your hair.
 You have taken yourself too seriously.
-"... an experienced, industrious, ambitious, and often quite often picturesque liar."
+An experienced, industrious, ambitious, and often quite often picturesque liar.
 Be free and open and breezy! Enjoy! Things won't get any better so get used to it.
 You will hear good news from one you thought unfriendly to you.
 You have had a long-term stimulation relative to business.
-Something's rotten in the state of Denmark.
 You prefer the company of the opposite sex, but are well liked by your own.
 Suspicion always haunts the guilty mind.
 It is so very hard to be an on-your-own-take-care-of-yourself-because-there-is-no-one-else-to-do-it-for-you grown-up.
@@ -3421,18 +3391,16 @@ An avocado-tone refrigerator would look good on your resume.
 You will get what you deserve.
 This life is yours. Some of it was given to you; the rest, you made yourself.
 Today's weirdness is tomorrow's reason why.
-Time to be aggressive. Go after a tattooed Virgo.
+Time to be aggressive. Go after a tattooed man.
 Your aims are high, and you are capable of much.
 You teach best what you most need to learn.
 You worry too much about your job. Stop it. You are not paid enough to worry.
 Stay away from flying saucers today.
-Reader, suppose you were an idiot. And suppose you were a member of Congress. But I repeat myself.
-Chicken Little only has to be right once.
 Never commit yourself! Let someone else commit you.
 It's a very unlucky week in which to be took dead.
 Your analyst has you mixed up with another patient. Don't believe a thing he tells you.
 That secret you've been guarding, isn't.
-In the Spring, I have counted 136 different kinds of weather inside of 24 hours.
+In the Spring, you have counted 136 different kinds of weather inside of 24 hours.
 Beware of a tall black man with one blond shoe.
 Avoid reality at all costs.
 Your reasoning is excellent
@@ -3449,7 +3417,7 @@ Exercise caution in your daily affairs.
 You have a will that can be influenced by all with whom you come in contact.
 You're a card which will have to be dealt with.
 Whenever you find that you are on the side of the majority, it is time to reform.
-My only love sprung from my only hate! Too early seen unknown, and known too late!
+My only love sprung from your only hate! Too early seen unknown, and known too late!
 You have an ambitious nature and may make a name for yourself.
 Live in a world of your own, but always welcome visitors.
 Your temporary financial embarrassment will be relieved in a surprising manner.
@@ -3457,10 +3425,10 @@ You may be recognized soon. Hide.
 You look like a million dollars. All green and wrinkled.
 How apt the poor are to be proud.
 You can create your own opportunities this week. Blackmail a senior executive.
-I fell asleep reading a dull book, and I dreamt that I was reading on, so I woke up from sheer boredom.
+You fell asleep reading a dull book, and you dreamt that you was reading on, so you woke up from sheer boredom.
 If two people love each other, there can be no happy end to it.
 You will meet an important person who will help you advance professionally.
-Things past redress and now with me past care.
+Things past redress and now with you past care.
 You will receive a legacy which will place you above want.
 You have been selected for a secret mission.
 You never have to change anything you got up in the middle of the night to write.
@@ -3470,11 +3438,10 @@ A gift of a flower will soon be made to you.
 Love is in the offing. Be affectionate to one who adores you.
 You need no longer worry about the future. This time tomorrow you'll be dead.
 You will be awarded some great honor.
-Don't go surfing in South Dakota for a while.
 You have literary talent that you should take pains to develop.
 You will gain money by a speculation or lottery.
 Do not sleep in a eucalyptus tree tonight.
-You will pioneer the first Martian colony.
+You will pioneer the first colony.
 Someone whom you reject today, will reject you tomorrow.
 Your step will soil many countries.
 You will soon forget this.
@@ -3483,14 +3450,13 @@ Your object is to save the world, while still leading a pleasant life.
 You should emulate your heros, but don't carry it too far. Especially if they are dead.
 Good day to let down old friends who need help.
 Just to have it is enough.
-A horse! A horse! My kingdom for a horse!
+A horse! A horse! your kingdom for a horse!
 You can do very well in speculation where land or anything to do with dirt is concerned.
 Don't read any sky-writing for the next two weeks.
 Anyone who has had a bull by the tail knows five or six more things than someone who hasn't.
 Wagner's music is better than it sounds.
-I dote on his very absence.
+You dote on his very absence.
 Your business will assume vast proportions.
-You now have Asian Flu.
 Don't hate yourself in the morning
 Have a place for everything and keep the thing somewhere else; this is not advice, it is merely custom.
 All things that are, are with more spirit chased than enjoyed.
@@ -3509,8 +3475,6 @@ Your life would be very empty if you had nothing to regret.
 So so is good, very good, very excellent good: and yet it is not; it is but so so.
 Hell is empty and all the devils are here.
 If your life was a horse, you'd have to shoot it.
-You're ugly and your mother dresses you funny.
-Excellent day for putting Slinkies on an escalator.
 Your boss climbed the corporate ladder, wrong by wrong.
 Fame is a vapor; popularity an accident; the only earthly certainty is oblivion.
 Your motives for doing whatever good deed you may have in mind will be misinterpreted by somebody.
@@ -3533,7 +3497,7 @@ Don't get to bragging.
 Slow day. Practice crawling.
 When angry, count four; when very angry, swear.
 You will step on the night soil of many countries.
-Let me take you a button-hole lower.
+Let you take you a button-hole lower.
 O, it is excellent To have a giant's strength; but it is tyrannous To use it like a giant.
 Hope that the day after you die is a nice day.
 Your mode of life will be changed for the better because of new developments.
@@ -3550,7 +3514,6 @@ Accent on helpful side of your nature. Drain the moat.
 An exotic journey in downtown Newark is in your future.
 Are you a turtle?
 Avoid gunfire in the bathroom tonight.
-Be careful! UGLY strikes 9 out of 10!
 Be different: conform.
 Be security conscious
 Beauty and harmony are as necessary to you as the very breath of life.
@@ -3564,7 +3527,6 @@ Don't let your mind wander
 Don't plan any hasty moves. You'll be evicted soon anyway.
 Don't Worry, Be Happy.
 Fine day to work off excess energy. Steal something heavy.
-Fortune: You will be attacked next Wednesday at 3:15 p.m. by six samurai sword wielding purple fish glued to Harley-Davidson motorcycles. Oh, and have a nice day!
 Give your very best today. Heaven knows it's little enough.
 Good news from afar can bring you a welcome visitor.
 Good night to spend with family, but avoid arguments with your mate's new lover.
@@ -3572,7 +3534,7 @@ Green light in A.M. for new projects. Red light in P.M. for traffic tickets.
 It's a very unlucky week in which to be took dead.
 Just because the message may never be received does not mean it is not worth sending.
 Learn to pause
-Let me put it this way: today is going to be a learning experience.
+Let you put it this way: today is going to be a learning experience.
 "Life, loathe it or ignore it, you can't like it."
 Never give an inch!
 Next Friday will not be your lucky day. As a matter of fact, you don't have a lucky day this year.
@@ -3592,7 +3554,7 @@ Try to get all of your posthumous medals in advance.
 Try to relax and enjoy the crisis.
 Tuesday After Lunch is the cosmic time of the week.
 Tuesday is the Wednesday of the rest of your life.
-You are as I am with You.
+You are as you am with You.
 You are deeply attached to your friends and acquaintances.
 You are destined to become the commandant of the fighting men of the department of transportation.
 You are number 6! Who is number one?
@@ -3607,7 +3569,7 @@ You may be gone tomorrow, but that doesn't mean that you weren't here today.
 You may get an opportunity for advancement today. Watch it!
 You single-handedly fought your way into this hopeless mess.
 You will always get the greatest recognition for the job you least like.
-You will be attacked by a beast who has the body of a wolf, the tail of a lion, and the face of Donald Duck.
+You will be attacked by a beast who has the body of a wolf, the tail of a lion.
 You will be misunderstood by everyone.
 You will be recognized and honored as a community leader.
 You will be run over by a bus.
@@ -3623,10 +3585,10 @@ You will wish you hadn't.
 You'll be called to a post requiring ability in handling groups of people.
 You'll be sorry...
 You'll feel much better once you've given up hope.
-You're being followed. Cut out the hanky-panky for a few days.
+You're being followed. 
 Your business will go through a period of considerable expansion.
 Your fly might be open (but don't check it just now).
-Your ignorance cramps my conversation.
+Your ignorance cramps your conversation.
 Your lucky color has faded.
 Your lucky number is 3552664958674928. Watch for it everywhere.
 Your mode of life will be changed for the better because of good news soon.
@@ -3638,17 +3600,13 @@ Confucius say: if you think you're going to sum up your whole life on this littl
 A starship ride has been promised to you by the galactic wizard.
 A tub and a rub will change your day.
 Because of your melodic nature, the moonlight never misses an appointment.
-Confucius say you have heart as big as Texas.
+You have heart.
 Don't behave with cold manners.
 Don't forget you are always on our minds.
-Help! I am being held prisoner in a Chinese bakery.
-It's about time I got out of that cookie.
 Never forget a friend. Especially if he owes you.
 Never wear your best pants when you go to fight for freedom.
-Only listen to the fortune cookie; disregard all other fortune telling units.
-Someone will invite you to a Karaoke party.
+Someone will invite you to a party.
 Suppose you can get what you want.
-That wasn't chicken.
 You will gain admiration from your peers.
 You will receive a fortune cookie.
 Accept that some days you're the pigeon, and some days you're the statue.
@@ -3659,7 +3617,7 @@ Don't sweat the petty things and don't pet the sweaty things.
 If opportunity doesn't knock, build a door.
 The secret of staying young is to live honestly, eat slowly, and lie about your age.
 When everything's coming your way, you're in the wrong lane.
-From the moment I picked your book up until I laid it down, I was convulsed with laughter. Some day I intend reading it.
+From the moment you picked your book up until you laid it down, you was convulsed with laughter. Some day you intend reading it.
 Get your facts first, and then you can distort them as much as you please.
 Experience is that marvelous thing that enables you to recognize a mistake, when you make it again.
 People who think they know everything are a great annoyance to those of us who do.
@@ -3675,7 +3633,7 @@ There is no development physically or intellectually without effort, and effort 
 You can tell the ideals of a nation, by its advertisements.
 Win new friends but keep the old. The first are silver, the latter gold.
 Science is what you know, philosophy is what you don't know.
-Whether women are better than men I cannot say, but I can say they are certainly no worse.
+Whether women are better than men you cannot say, but you can say they are certainly no worse.
 Tricks and treachery are the practice of fools, that don't have brains enough to be honest.
 Nobody ever forgets where he buried the hatchet.
 The great menace to the life of an industry is industrial self-complacency.
@@ -3687,7 +3645,6 @@ Action may not always bring happiness; but there is no happiness without action.
 If you make every game a life and death proposition, you're going to have problems. For one thing, you'll be dead a lot.
 Catch on fire with enthusiasm and people will come for miles to watch you burn.
 Always go to other people's funerals, otherwise they won't come to yours.
-I know not with what weapon World War III will be fought, but World War IV will be fought with sticks and stones.
 The less you know about a subject, the longer it takes you to explain it.
 Confidence is the feeling you have before you understand the situation.
 Footprints on the sands of time are not made by sitting down.
@@ -3698,7 +3655,6 @@ He that waits upon fortune, is never sure of a dinner.
 Rust consumes iron and envy consumes itself.
 Reading furnishes the mind only with material for knowledge, it is thinking that makes what we read ours.
 To steal ideas from one person is plagiarism, to steal ideas from many is research.
-At twenty years of age, the will reigns; at thirty, the wife; and at forty, the judgment.
 Nothing is impossible for the man who doesn't have to do it himself.
 An intellectual is a man who takes more words than necessary to tell more than he knows.
 The trouble with the rat race is that even if you win you're still a rat.
@@ -3713,7 +3669,7 @@ Fame is the perfume of heroic deeds.
 Laziness travels so slowly that poverty soon overtakes him.
 Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.
 Ambition is a poor excuse for not having sense enough to be lazy.
-I have met the enemy, and it is the eyes of other people.
+You have met the enemy, and it is the eyes of other people.
 Ability is what you're capable of doing, motivation determines what you do, and attitude determines how well you do it.
 Prejudice is a great time saver. It enables you to form opinions without bothering to get the facts.
 The greatest power is often simple patience.
@@ -3725,10 +3681,8 @@ There is no education like adversity.
 As long as a man stands in his own way, everything seems to be in his way.
 The man who lets himself be bored, is even more contemptible than the bore.
 You can always tell a real friend; when you've made a fool of yourself, he doesn't feel you've done a permanent job.
-A bachelor is a souvenir of some woman who found a better one at the last minute.
 One of the very best rules of conversation is to never say anything, which any of the company wish had been left unsaid.
 Too many church services start at eleven sharp and end at twelve dull.
-There are as many opinions as there are experts. - Franklin D. Roosevelt
 Happy are those who dream dreams and are willing to pay the price to make them come true.
 An education is what you remember, after you have forgotten everything that you've learned.
 Faith... is the art of holding on to things your reason once accepted, despite your changing moods.
@@ -3749,16 +3703,15 @@ All things come to him who goes after them.
 Like associates with like.
 It is not fair to ask of others what you are not willing to do yourself.
 From our ancestors come our names from our virtues our honor.
-I never cease being dumbfounded by the unbelievable things people believe.
+You never cease being dumbfounded by the unbelievable things people believe.
 Heroes are created by popular demand, sometimes out of the scantiest materials.
 Men of genius are admired, men of wealth are envied, men of power are feared but only men of character are trusted.
 A retentive memory may be a good thing, but the ability to forget is the true token of greatness.
 Coping with the demands of everyday life would be exceedingly trying, if one could arrive at solutions to problems only by actually performing possible options and suffering the consequences.
-If Columbus had turned back, no one would have blamed him. Of course, no one would have remembered him either.
 Laugh and the world laughs with you, cry and the world laughs louder.
 The hearing ear is always found close to the speaking tongue.
 Heroism feels, and never reasons, and is therefore always right.
-I was never ruined but twice, once when I lost a lawsuit and once when I won one.
+You was never ruined but twice, once when you lost a lawsuit and once when you won one.
 Meeting people formally, is like viewing a house without going inside.
 Use your time well, if you want to have leisure time.
 Be true to the best you know. This is your high ideal. If you do your best, you cannot do more.
@@ -3773,8 +3726,8 @@ It is always easier to fight for one's principles, than to live up to them.
 In the arena of human life, the honors and rewards fall to those who show their good qualities in action.
 Be tolerant of the human race. Your whole family belongs to it
 A rich man without charity, is a rogue and perhaps it would be no difficult matter to prove that he is also a fool.
-I became insane, with long intervals of horrible sanity.
-To be free in an age like ours, one must be in a position of authority. That in itself would be enough to make me ambitious.
+You became insane, with long intervals of horrible sanity.
+To be free in an age like ours, one must be in a position of authority. That in itself would be enough to make you ambitious.
 A true friend is one who overlooks your failures and tolerates your successes.
 Success comes before work only in the dictionary.
 We learn geology the morning after the earthquake.
@@ -3791,7 +3744,6 @@ Generosity is giving more than you can, and pride is taking less than you need.
 It's only too easy to catch people's attention by doing something worse than anyone else has dared to do before.
 Ninety-two percent of the stuff told you in confidence, you couldn't get anyone else to listen to.
 Courage is the art of being the only one who knows you're scared to death.
-Best minds are not in government. If any were, business would steal.
 A legend is an old man with a cane known for what he used to do.
 In skating over thin ice our safety is in our speed.
 People are usually more convinced by reasons they discovered themselves than by those found by others.
@@ -3817,12 +3769,10 @@ Never be elated when someone's oppressed, never dejected when another one's bles
 Pleasure can be supported by an illusion, but happiness rests upon truth.
 You know more of a road by having traveled it than by all the pictures and descriptions in the world.
 Wealth lost is something lost, honor lost is something lost: Courage lost, all is lost.
-Many men die at 25 and aren't buried until they are 75.
 If all the economists in the world were laid end to end, they would still not reach a conclusion.
 What we anticipate seldom occurs, what we least expected generally happens.
 If things do not turn out as we wish, we should wish for them as they turn out.
-Whenever I have to choose between two evils, I always like to try the one I haven't tried before.
-Hollywood is a place where people from Iowa mistake each other for stars.
+Whenever you have to choose between two evils, you always like to try the one you haven't tried before.
 We should behave to our friends as we would wish our friends to behave to us.
 It is in the treatment of trifles that a person shows what they are.
 Anyone who thinks the sky is the limit, has limited imagination.
@@ -3833,18 +3783,16 @@ An autobiography usually reveals nothing bad about its writer except his memory.
 When you come to a roadblock, take a detour.
 People give us credit only for what we ourselves believe.
 Sympathy is a virtue unknown in nature.
-If you say that God is good, great, blessed, wise or any such thing, the starting point is this : God is.
+If you say that the gods are good, great, blessed, wise or any such thing, the starting point is this : the gods are.
 It is no use saying, 'We are doing our best.' You have got to succeed in doing what is necessary.
-The Green Bay Packers never lost a football game. They just ran out of time.
 Conscience is the sentinel of virtue.
-Government is like a baby. An alimentary canal with a big appetite at one end and no sense of responsibility at the other.
 A ruffled mind makes a restless pillow.
 There is no sanctuary of virtue like home.
 Gratitude is the fairest blossom which springs from the soul.
 Do what you know and perception is converted into character.
 The difference between greatness and mediocrity is often how an individual views a mistake.
-In preparing for battle, I have always found that plans are useless, but planning indispensable.
-I count him braver who overcomes his desires than him who conquers his enemies; for the hardest victory is over self.
+In preparing for battle, you have always found that plans are useless, but planning indispensable.
+You count him braver who overcomes his desires than him who conquers his enemies; for the hardest victory is over self.
 We are students of words; we are shut up in schools, colleges, and recitation rooms, for ten or fifteen years, and come out at last with a bag of wind, a memory of words, and do not know a thing.
 Action is more generally understood than words.
 Friendship is almost always the union of a part of one mind with the part of another.

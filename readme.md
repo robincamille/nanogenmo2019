@@ -2,13 +2,19 @@ This project was created for NaNoGenMo (National Novel Generation Month) 2019. U
 
 General format, inspired by Cosmopolitan magazine's horoscopes: date, sign, exclamation ("Yikes, Leo!"), then a mangled horoscope. 
 
+Absolutely zero astrological knowledge went into the creation of this script. It's meant to be whimsical but not mean-spirited.
+
 ## To use 
+
+On the command line (Terminal on a Mac), type: 
 
 ```
 python3 horoscoperator.py
 ```
 
-It outputs output.md, a Markdown-formatted file.
+It will ask you to type which sign you want output for (e.g., "Leo") or "All."
+
+The script outputs output.md, a Markdown-formatted file. If you chose one sign, the file is about 16,000 words long. If you chose all signs, it will be about 200,000 words long.
 
 ## Sample output  
 
@@ -87,5 +93,4 @@ A huge thank you to the sources for all-fortunes.txt...
 - Fiddle with capitalization / punctuation 
 - Is there a better way to use Markov chains to structure a sentence? 
 - Should the signs be ordered somehow? Current sign first? 
-- Is this a birthday horoscope book, or your daily horoscope? 
 - Consider adding to the structure: moon/planet movements, final piece of advice

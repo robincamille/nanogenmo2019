@@ -2,26 +2,66 @@
 
 import datetime, json, random, markovgen, re, string
 
+#set up signs
+signs = ["Aries", "Taurus", "Gemini", "Cancer", "Leo", "Virgo", "Libra", \
+         "Scorpio", "Sagittarius", "Capricorn", "Aquarius", "Pisces"]
+
+
+#get user input
+mysign = input("Which sign would you like to get a book of horoscopes for?\n \
+Choose: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, \
+Sagittarius, Capricorn, Aquarius, Pisces, or All\n")
+mysign = mysign.capitalize()
+while mysign not in signs:
+    if mysign == "All":
+        pass #list signs remains all 13 Zodiac signs
+    else: #not All or any sign
+        mysign = input("***********\nTry again, and pick from this list:\n \
+Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, \
+Sagittarius, Capricorn, Aquarius, Pisces, or All\n")
+else:
+    signs = [mysign] #user has chosen one sign
+
+print("Generating book of horoscopes...")
+
 #set up date paramaters 
 start = datetime.datetime.strptime("2020-01-01", "%Y-%m-%d")
 end = datetime.datetime.strptime("2021-01-01", "%Y-%m-%d") #change to 2021-01-01
 date_generated = [start + datetime.timedelta(days=x) for x in range(0, (end-start).days)]
 
-#set up signs
-signs = ["Aries", "Taurus", "Gemini", "Cancer", "Leo", "Virgo", "Libra", "Scorpio", "Sagittarius", "Capricorn", "Aquarius", "Pisces"]
 
-#set up horoscope text
+#set up "Yikes, Gemini!" style opener
 interjectionfile = open('interjections.json','r')
 interjections = interjectionfile.read()
 interjectionfile.close()
 interjectionlist = json.loads(interjections)["interjections"]
 
-markovorig = open("all-fortunes.txt")
 
 #set up output file
 outfile = open("output.md","w")
+outfile.write("# Daily Horoscopes for 2020\n")
+if len(signs) == 1:
+    outfile.write("## for " + signs[0] + "\n\n")
 
-outfile.write("# 2020 Horoscopes\n\n")
+# function: Markov chain text generator
+markovorig = open("all-fortunes.txt")
+def makeFortune():
+    mk = markovgen.Markov(markovorig)
+    line = mk.generate_markov_text()
+
+    #remove punctuation
+    exclude = ['"','(',')',';'] 
+    line = ''.join(ch for ch in line if ch not in exclude)
+
+    #make line lowercase, add period at end
+    line = line.lower()
+    line = line.split(". ")
+    mfortune = []
+    for l in line:
+        l += "."
+        mfortune.append(l.capitalize())
+    mfortune = ' '.join(mfortune)
+    return(mfortune)
 
 for date in date_generated:
     if date.strftime("%d")[0] == "0":
@@ -34,33 +74,16 @@ for date in date_generated:
 
     for sign in signs:
         #print("\n" + sign)
-        outfile.write("### " + sign + "\n\n")
         interjection = interjectionlist[random.randint(0,(len(interjectionlist)-1))].capitalize()
+        if len(signs) > 1:
+            outfile.write("### " + sign + "\n\n")
+            interjection = interjection + ", " + sign + "! "
+        else:
+            interjection = interjection + "! "
         #fortune = tarot[random.randint(0,(len(tarot)-1))].lower().capitalize()
 
-        # Repeatable Markov'd text generator
-        mk = markovgen.Markov(markovorig)
-        line = mk.generate_markov_text()
-
-        #remove punctuation
-        exclude = ['"','(',')',';'] 
-        line = ''.join(ch for ch in line if ch not in exclude)
-
-        #make line lowercase, add period at end
-        line = line.lower()
-        line = line.split(". ")
-        mfortune = []
-        for l in line:
-            l += "."
-            mfortune.append(l.capitalize())
-        mfortune = ' '.join(mfortune)
-
-        #print(interjection + ", " + sign + "! " + fortune[:-1] + " " + mfortune)
-
-        #print(interjection + ", " + sign + "! " + mfortune)
-   
-        outfile.write(interjection + ", " + sign + "! " + mfortune + "\n\n")
-    outfile.write("---\n")
+        outfile.write(interjection + makeFortune() + "\n\n")
+        outfile.write("---\n")
 
 
 print("Done")
