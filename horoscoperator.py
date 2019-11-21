@@ -1,4 +1,5 @@
-#2020 horoscopes book for NaNoGenMo
+#2020 horoscopes book for NaNoGenMo by @robincamille
+#Outputs a long .md file of daily horoscopes for each date in 2020
 
 import datetime, json, random, markovgen, re, string
 
@@ -6,17 +7,17 @@ import datetime, json, random, markovgen, re, string
 signs = ["Aries", "Taurus", "Gemini", "Cancer", "Leo", "Virgo", "Libra", \
          "Scorpio", "Sagittarius", "Capricorn", "Aquarius", "Pisces"]
 
-
-#get user input
+#get user input: one sign, or all signs?
 mysign = input("Which sign would you like to get a book of horoscopes for?\n \
 Choose: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, \
 Sagittarius, Capricorn, Aquarius, Pisces, or All\n")
 mysign = mysign.capitalize()
 while mysign not in signs:
     if mysign == "All":
-        pass #list signs remains all 13 Zodiac signs
+        pass #list signs remains same, contains all 12 Zodiac signs
     else: #not All or any sign
-        mysign = input("***********\nTry again, and pick from this list:\n \
+        mysign = input("****************************************\n \
+Try again, and pick from this list:\n \
 Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, \
 Sagittarius, Capricorn, Aquarius, Pisces, or All\n")
 else:
@@ -30,7 +31,7 @@ end = datetime.datetime.strptime("2021-01-01", "%Y-%m-%d") #change to 2021-01-01
 date_generated = [start + datetime.timedelta(days=x) for x in range(0, (end-start).days)]
 
 
-#set up "Yikes, Gemini!" style opener
+#set up interjections for "Yikes, Gemini!" style opener
 interjectionfile = open('interjections.json','r')
 interjections = interjectionfile.read()
 interjectionfile.close()
@@ -41,7 +42,7 @@ interjectionlist = json.loads(interjections)["interjections"]
 outfile = open("output.md","w")
 outfile.write("# Daily Horoscopes for 2020\n")
 if len(signs) == 1:
-    outfile.write("## for " + signs[0] + "\n\n")
+    outfile.write("## For " + signs[0] + "\n\n")
 
 # function: Markov chain text generator
 markovorig = open("all-fortunes.txt")
@@ -86,7 +87,7 @@ for date in date_generated:
         outfile.write("---\n")
 
 
-print("Done")
+print("Done: see output.md")
 outfile.close
 markovorig.close()
 
