@@ -45,7 +45,7 @@ if len(signs) == 1:
     outfile.write("## For " + signs[0] + "\n\n")
 
 # function: Markov chain text generator
-markovorig = open("all-fortunes.txt")
+markovorig = open("source-text.txt")
 def makeFortune():
     mk = markovgen.Markov(markovorig)
     line = mk.generate_markov_text()
