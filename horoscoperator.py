@@ -14,7 +14,7 @@ Sagittarius, Capricorn, Aquarius, Pisces, or All\n")
 mysign = mysign.capitalize()
 while mysign not in signs:
     if mysign == "All":
-        pass #list signs remains same, contains all 12 Zodiac signs
+        break #list signs remains same, contains all 12 Zodiac signs
     else: #not All or any sign
         mysign = input("****************************************\n \
 Try again, and pick from this list:\n \
