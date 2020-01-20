@@ -42,7 +42,7 @@ Gee whiz, Gemini! A month of opportunities, you.
 
 ## Printed
 
-I had one output of this project printed and bound, without any editing besides formatting.
+I had one output of this project printed and bound into a 501-page book, without any editing besides formatting.
 
 <img src="http://robincamille.com/assets/nanogenmo2019-printed1.jpg" alt="Thick book titled Book of Horoscopes 2020 on a wooden table" /> 
 <img src="http://robincamille.com/assets/nanogenmo2019-printed2.jpg" alt="Interior page of book, beginning with: April 29, 2020. Aries: Grr, Aries! Bakery products! You are being aroused, sexually or creatively. You are watching for cycles." />
