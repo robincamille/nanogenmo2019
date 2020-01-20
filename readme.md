@@ -6,6 +6,8 @@ General format, inspired by Cosmopolitan magazine's horoscopes: date, sign, excl
 
 Absolutely zero astrological knowledge went into the creation of this script. It's meant to be whimsical but not mean-spirited.
 
+*Completed Dec. 3, 2019*
+
 ## To use 
 
 On the command line (Terminal on a Mac), type: 
@@ -38,6 +40,12 @@ Gee whiz, Gemini! A month of opportunities, you.
 
 [See sample text for one sign](https://github.com/robincamille/nanogenmo2019/blob/master/sample-output_leo.md)
 
+## Printed
+
+I had one output of this project printed and bound, without any editing besides formatting.
+
+<img src="http://robincamille.com/assets/nanogenmo2019-printed1.jpg" alt="Thick book titled Book of Horoscopes 2020 on a wooden table" /> 
+<img src="http://robincamille.com/assets/nanogenmo2019-printed2.jpg" alt="Interior page of book, beginning with: April 29, 2020. Aries: Grr, Aries! Bakery products! You are being aroused, sexually or creatively. You are watching for cycles." />
 
 ## Sources
 
@@ -57,10 +65,3 @@ A huge thank you to the sources for all-fortunes.txt...
 ### Similar project
 - [Horoscope a Minute](https://play.google.com/store/apps/details?id=com.volchok.minutehoroscope&hl=en_US) Android app that generates a horoscope every minute
 
----
-
-## To do
-- Fiddle with capitalization / punctuation 
-- Is there a better way to use Markov chains to structure a sentence? 
-- Should the signs be ordered somehow? Current sign first? 
-- Consider adding to the structure: moon/planet movements, final piece of advice
