@@ -38,6 +38,8 @@ Gee whiz, Gemini! A month of opportunities, you.
 
 [See more of the sample text for all signs](https://github.com/robincamille/nanogenmo2019/blob/master/sample-output_all.md)
 
+[See full 200k-word sample text for all signs](https://raw.githubusercontent.com/robincamille/nanogenmo2019/master/sample-output_all-signs_full.md) ("raw" Markdown view only)
+
 [See sample text for one sign](https://github.com/robincamille/nanogenmo2019/blob/master/sample-output_leo.md)
 
 ## Printed
